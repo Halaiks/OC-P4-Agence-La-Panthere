@@ -1,3 +1,0 @@
-RewriteEngine On
-RewriteCond %{HTTP_HOST} ^www\.halaiks\.github\.io$ [NC]
-RewriteRule ^(.*)$ https://halaiks.github.io/$1 [L,R=301]
