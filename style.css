@@ -780,7 +780,7 @@ h4 {
 }
 
 .tc-black {
-    color: #000000;
+    color: #000000 !important;
 }
 
 .tc-white {
