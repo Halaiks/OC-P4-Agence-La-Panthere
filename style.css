@@ -692,7 +692,7 @@ p {
 }
 
 .footer-text {
-    color: #FFFFFF !important;
+    color: #000000 !important;
 }
 
 .cta-hero {
@@ -776,7 +776,11 @@ h4 {
 }
 
 .bgc-atomic-tangerine {
-    background-color: #BD5A3A;
+    background-color: #F3976C;
+}
+
+.tc-black {
+    color: #000000;
 }
 
 .tc-white {
@@ -784,13 +788,13 @@ h4 {
 }
 
 .btn-atomic-tangerine {
-    background: #BD5A3A;
-    color: #FFFFFF !important;
+    background: #F3976C;
+    color: #000000 !important;
 }
 
 .btn-atomic-tangerine:hover {
     background: #c27956!important;
-    color: #FFFFFF!important;
+    color: #000000!important;
 }
 
 .ltc-white {
